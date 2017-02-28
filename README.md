@@ -1,4 +1,4 @@
-# simple-todo in MeteorJS abd React
+# simple-todo in MeteorJS and React
 My implementation of the Todo App tutorial from https://www.meteor.com/tutorials/react/creating-an-app.
 
 ## <a name="installation"></a> Installation
